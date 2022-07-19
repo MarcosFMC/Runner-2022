@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f318f076022fc9c4083d21a044dcbeb9, type: 3}
+  m_Name: 2-Minero
+  m_EditorClassIdentifier: 
+  ItemName: Minero
+  ItemPrice: 20
+  Thumbnail: {fileID: 21300000, guid: ecc7f72da3a957c47857bf2a75f4b0fa, type: 3}
+  Model: {fileID: 7543500562964013799, guid: 3c5366ab384b890409c72675db74174a, type: 3}
